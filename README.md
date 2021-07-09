@@ -4,6 +4,7 @@
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Richard Hamming, 7 March 1986
 
 ## Academic writting
+* [Writing in the Sciences](https://www.coursera.org/learn/sciwrite). Coursera course. [Kristin L. Sainani](https://web.stanford.edu/~kcobb/), Stanford University
 * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm). Marc H. Raibert, January 1985
 * [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 
