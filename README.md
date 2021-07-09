@@ -16,3 +16,4 @@
 * [How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf). William Freeman, MIT CSAIL, Nov. 6, 2014
 * [How to Get Your SIGGRAPH Paper Rejected](https://www.siggraph.org/sites/default/files/kajiya.pdf). Jim Kajiya.
 * [How to have a paper get into SIGGRAPH?](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html). Takeo Igarashi, April 2007.
+* [How to make a SIGGRAPH paper while having all the fun](https://www.liyiwei.org/courses/how-siga14/). Li-Yi Wei, 2014
