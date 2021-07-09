@@ -11,5 +11,7 @@
 ## Paper writting
 * [Guidelines for your research paper/thesis](https://jvgemert.github.io/writing.pdf). Jan van Gemert. November 8, 2019.
 * [Three-phase Paper Writing](https://dritchie.github.io/2017/10/12/three-phase-paper-writing.html). Daniel Ritchie. 
+
+## Domain-specific paper writting
 * [How to Get Your SIGGRAPH Paper Rejected](https://www.siggraph.org/sites/default/files/kajiya.pdf). Jim Kajiya.
 * [How to have a paper get into SIGGRAPH?](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html). Takeo Igarashi, April 2007.
