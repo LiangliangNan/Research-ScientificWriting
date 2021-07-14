@@ -1,4 +1,4 @@
-# Guidelines and tips for research and scientific writing
+# Guidelines and tips for doing research and scientific writing
 
 ## Research
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Richard Hamming, 7 March 1986
