@@ -19,6 +19,7 @@
 * [How to Get Your SIGGRAPH Paper Rejected](https://www.siggraph.org/sites/default/files/kajiya.pdf). Jim Kajiya.
 * [How to have a paper get into SIGGRAPH?](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html). Takeo Igarashi, April 2007.
 * [How to make a SIGGRAPH paper while having all the fun](https://www.liyiwei.org/courses/how-siga14/). Li-Yi Wei, 2014
+* [Heuristics for Scientific Writing (a Machine Learning Perspective)](https://www.approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/). Zachary C. Lipton. January 29, 2018
 
 ### Misc
 * [Serial comma (_or_ Oxford comma)](https://en.wikipedia.org/wiki/Serial_comma)
