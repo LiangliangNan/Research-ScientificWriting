@@ -24,3 +24,7 @@
 
 ### Misc
 * [Serial comma (_or_ Oxford comma)](https://en.wikipedia.org/wiki/Serial_comma)
+
+### Review
+* [How to write a good review?](https://sites.google.com/view/making-reviews-great-again). CVPR 2020 tutorial.
+* [CVPR 2022 Reviewer Tutorial](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGllClSCwdKKqhgbrrmFNSVRbSG?projector=1)
