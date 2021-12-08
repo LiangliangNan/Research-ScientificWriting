@@ -1,9 +1,11 @@
-## Guidelines and tips for doing research and scientific writing
+# Guidelines and tips for doing research and scientific writing
 
 ### Research
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Richard Hamming, 7 March 1986
 * [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). Lucy A. Taylor. Nature (Career column). 6 November 2018
 * [My Ph.D. advisers expected weekly progress reports. I’m glad they did](https://www.science.org/content/article/my-ph-d-advisers-expected-weekly-progress-reports-i-m-glad-they-did). Pijar Religia. Science. 2 Dec. 2021.
+
+--------------
 
 ### Academic writing
 * [Writing in the Sciences](https://www.coursera.org/learn/sciwrite). Coursera course. [Kristin L. Sainani](https://web.stanford.edu/~kcobb/), Stanford University
@@ -25,6 +27,8 @@
 
 ### Misc
 * [Serial comma (_or_ Oxford comma)](https://en.wikipedia.org/wiki/Serial_comma)
+
+--------------
 
 ### Review
 * [How to write a good review?](https://sites.google.com/view/making-reviews-great-again). CVPR 2020 tutorial.
