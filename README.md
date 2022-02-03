@@ -33,3 +33,4 @@
 ### Review
 * [How to write a good review?](https://sites.google.com/view/making-reviews-great-again). CVPR 2020 tutorial.
 * [How to be a good reviewer?](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf). Reviewer Tutorial for CVPR 2022. A presentation of the extended slides is available [here](https://www.youtube.com/watch?v=DeDtLNH9T2M).
+* [Novelty in Science: A guide for reviewers](https://perceiving-systems.blog/en/news/novelty-in-science). Michael J. Black. Jan. 30, 2022
