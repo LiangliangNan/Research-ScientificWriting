@@ -3,8 +3,8 @@
 ### Research
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html). Richard Hamming, 7 March 1986
 * [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). Lucy A. Taylor. Nature (Career column). 6 November 2018
-* [My Ph.D. advisers expected weekly progress reports. I’m glad they did](https://www.science.org/content/article/my-ph-d-advisers-expected-weekly-progress-reports-i-m-glad-they-did). Pijar Religia. Science. 2 Dec. 2021.
-
+* [My Ph.D. advisers expected weekly progress reports. I’m glad they did](https://www.science.org/content/article/my-ph-d-advisers-expected-weekly-progress-reports-i-m-glad-they-did). Pijar Religia. Science. 2 Dec. 2021
+* [Managing up: how to communicate effectively with your PhD adviser](https://www.nature.com/articles/d41586-021-03703-z). Salgado et al. Nature (Career column). 10 December 2021
 --------------
 
 ### Academic writing
