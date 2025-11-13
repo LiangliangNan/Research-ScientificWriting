@@ -13,6 +13,7 @@
 * [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 
 ### Paper writing
+* [Writing a good scientific paper](https://medium.com/@black_51980/writing-a-good-scientific-paper-c0f8af480c91). Michael Black, Nov. 8, 2024
 * [Guidelines for your research paper/thesis](https://jvgemert.github.io/writing.pdf). Jan van Gemert. November 8, 2019.
 * [Three-phase Paper Writing](https://dritchie.github.io/2017/10/12/three-phase-paper-writing.html). Daniel Ritchie. 
 * [The unofficial guide for authors (_or_ How to produce research articles worth citing)](https://3d.bk.tudelft.nl/courses/geo2020/pdfs/HenglGould06.pdf). Tomislav Hengl & Mike Gould. 2006
